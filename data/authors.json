@@ -1,0 +1,85 @@
+[
+  {
+    "id": "91948928-726f-434b-b0fc-55925d6427f7",
+    "name": "Alex Chen",
+    "slug": "alex-chen",
+    "bio": "Alex is a passionate full-stack developer with over 8 years of experience building scalable web applications. He enjoys mentoring junior developers, contributing to open-source projects, and writing about modern JavaScript frameworks. When not coding, he's an avid rock climber and coffee enthusiast.\n\n",
+    "imageUrl": "https://neuroresidency.uphs.upenn.edu/wp-content/uploads/2026/07/Alex-Chen-600x900.jpg",
+    "role": "Senior Full-Stack Developer",
+    "location": "Austin, USA",
+    "joinDate": "2025-11-25T02:00:34.232Z",
+    "email": "alex.chen@example.com",
+    "website": "https://alexchen.dev",
+    "socialLinks": {
+      "twitter": "@alexchen_codes",
+      "linkedin": "https://linkedin.com/in/alexchen-swe",
+      "github": "https://github.com/alexchen-dev"
+    },
+    "stats": {
+      "articles": 12,
+      "followers": 1,
+      "totalViews": 0,
+      "totalLikes": 0
+    },
+    "expertise": [
+      {
+        "name": "JavaScript",
+        "level": 92,
+        "color": "from-yellow-500 to-orange-500"
+      },
+      {
+        "name": "TypeScript",
+        "level": 88,
+        "color": "from-blue-600 to-blue-800"
+      },
+      {
+        "name": "React",
+        "level": 90,
+        "color": "from-cyan-500 to-blue-500"
+      },
+      {
+        "name": "Node.js",
+        "level": 85,
+        "color": "from-green-500 to-emerald-500"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": 80,
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "name": "AWS",
+        "level": 75,
+        "color": "from-orange-400 to-red-500"
+      }
+    ],
+    "specializations": [
+      "Frontend Architecture",
+      "API Design",
+      "System Scaling",
+      "DevOps"
+    ],
+    "achievements": [
+      {
+        "title": "Google Developer Expert",
+        "description": "Recognized as an expert in Web Technologies",
+        "icon": "Award"
+      },
+      {
+        "title": "AWS Certified Solutions Architect",
+        "description": "Professionally certified in cloud infrastructure",
+        "icon": "Award"
+      },
+      {
+        "title": "Top 1% Contributor",
+        "description": "Ranked in the top 1% of answers on Stack Overflow",
+        "icon": "Trophy"
+      },
+      {
+        "title": "Open Source Maintainer",
+        "description": "Maintainer of the popular \"react-query-hooks\" library",
+        "icon": "GitMerge"
+      }
+    ]
+  }
+]

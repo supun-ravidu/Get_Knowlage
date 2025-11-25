@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1764044972847",
+    "email": "minsa@gmail.com",
+    "password": "123456",
+    "name": "Minsa",
+    "status": "approved",
+    "paymentInfo": {
+      "cardNumber": "1234 5612 3456 1234",
+      "expiryDate": "01/20",
+      "cvv": "***"
+    },
+    "createdAt": "2025-11-25T04:29:32.847Z",
+    "approvedAt": "2025-11-25T04:30:22.280Z"
+  }
+]
